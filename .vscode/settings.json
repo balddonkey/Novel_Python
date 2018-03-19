@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    "jupyter.notebook.startupFolder": "${workspaceRoot}",
+    "python.formatting.provider": "yapf"
+}
